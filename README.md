@@ -47,3 +47,21 @@ print("the prod is ", product)
 qoutient = num1 / num2 
 
 print("the qoutient is ", qoutient)
+
+
+
+
+#Exercise 3 odd or even
+#create a python program that determines if the number is odd or eve based on the user input.
+
+user_input = input ( "enter number? ")
+
+try
+number = int (user_input)
+if number 2 % == 0:
+print ( f"{number} is an even number.")
+
+else:
+print(f"{number} is an odd number")
+exept ValueError:
+print("You did not enter a number.")
