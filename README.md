@@ -2,6 +2,8 @@
 print('Hello SPUS!')
 
 
+#excersice 2
+
 num1 = 20
 
 num2 = 30
